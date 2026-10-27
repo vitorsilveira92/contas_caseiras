@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Contas Caseiras</string>
+
+    <string name="categoria_moradia">Moradia</string>
+    <string name="categoria_alimentacao">Alimentação</string>
+    <string name="categoria_transporte">Transporte</string>
+    <string name="categoria_lazer">Lazer</string>
+    <string name="categoria_saude">Saúde</string>
+    <string name="categoria_outras">Outras</string>
+
+    <string name="status_pago">Pago</string>
+    <string name="status_pendente">Pendente</string>
+
+    <string name="tipo_entrada">Entrada</string>
+    <string name="tipo_saida">Saída</string>
+
+    <string name="saldo_previsto_mes">Saldo previsto do mês</string>
+    <string name="adicionar_transacao">Adicionar</string>
+    <string name="salvar">Salvar</string>
+    <string name="titulo_campo">Título</string>
+    <string name="valor_campo">Valor</string>
+    <string name="vencimento_campo">Vencimento</string>
+    <string name="categoria_campo">Categoria</string>
+    <string name="lembrete_campo">Lembrar antes do vencimento</string>
+
+    <string name="notificacao_canal_lembretes">Lembretes de contas</string>
+    <string name="notificacao_titulo">Conta a vencer: %1$s</string>
+    <string name="notificacao_texto">Vence em %1$s — %2$s</string>
+</resources>

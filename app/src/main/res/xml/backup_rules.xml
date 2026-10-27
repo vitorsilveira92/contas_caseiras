@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Dados financeiros ficam só no aparelho (sem login obrigatório no free).
+   O backup automático do Android (Auto Backup) está habilitado por padrão
+   para não perder o banco local em troca de aparelho; revisar antes do
+   lançamento Pro, quando houver sync próprio via conta Google.
+-->
+<full-backup-content>
+</full-backup-content>
